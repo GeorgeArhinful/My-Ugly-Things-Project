@@ -1,0 +1,11 @@
+.image{
+  width: 30%;
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+}
+.text{
+  text-align: center;
+  text-align: justify;
+  margin: 0px auto!important;
+}
